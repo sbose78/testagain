@@ -51,3 +51,5 @@ $ mvn clean fabric8:deploy -Popenshift -DskipTests
 
 == CI/CD Deployment
 As part of the process of creating this booster, launch.openshift.io set up a project with a CI/CD deployment of this booster. You can see the status of this deployment in your Single-node OpenShift Cluster Web Console. You can also learn more about this booster and rest of the Eclipse Vert.x runtime in the link:http://appdev.openshift.io/docs/vertx-runtime.html[Eclipse Vert.x Runtime Guide].
+
+wow
